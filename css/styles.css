@@ -44,3 +44,12 @@ body{
     width: 450px;
     height: 500px;
 }
+.if{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+}
+.stl{
+    width: 500px;
+    height: 600px;
+}
